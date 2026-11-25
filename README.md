@@ -1,6 +1,1 @@
-# LIST OF KEYWORDS TO BE IGNORED
 
-* 药品
-* 生产
-* 质量
-* 管理
